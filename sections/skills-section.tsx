@@ -11,7 +11,7 @@ export function SkillsSection() {
   const entries = Object.entries(resume.skills);
 
   return (
-    <section id="skills" className="py-24">
+    <section id="skills" className="py-8">
       <Container>
         <SectionHeader
           eyebrow="Skills"

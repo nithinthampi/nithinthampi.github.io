@@ -29,7 +29,7 @@ export function ContactSection() {
   };
 
   return (
-    <section id="contact" className="py-24">
+    <section id="contact" className="py-16">
       <Container>
         <SectionHeader
           eyebrow="Contact"

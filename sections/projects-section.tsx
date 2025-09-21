@@ -12,7 +12,7 @@ export function ProjectsSection() {
   const projects = resume.projects ?? [];
 
   return (
-    <section id="projects" className="py-24">
+    <section id="projects" className="py-8">
       <Container>
         <SectionHeader
           eyebrow="Projects"

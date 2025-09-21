@@ -8,7 +8,7 @@ import { Timeline } from "@/components/ui/timeline";
 
 export function EducationSection() {
   return (
-    <section id="education" className="py-24">
+    <section id="education" className="py-8">
       <Container>
         <SectionHeader
           eyebrow="Education"

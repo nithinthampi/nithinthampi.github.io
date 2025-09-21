@@ -28,10 +28,26 @@
 
 :root {
   color-scheme: light;
+  --color-background: #f5f6fb;
+  --color-card: rgba(255, 255, 255, 0.85);
+  --color-foreground: #0f172a;
+  --color-muted: rgba(71, 85, 105, 0.85);
+  --color-border: rgba(15, 23, 42, 0.12);
+  --color-accent: #f97316;
+  --color-accent-foreground: #0f172a;
+  --shadow-lg: 0 20px 45px rgba(15, 23, 42, 0.15);
 }
 
-.dark {
+html.dark {
   color-scheme: dark;
+  --color-background: #04070f;
+  --color-card: rgba(15, 23, 42, 0.75);
+  --color-foreground: #f8fafc;
+  --color-muted: rgba(203, 213, 225, 0.75);
+  --color-border: rgba(148, 163, 184, 0.25);
+  --color-accent: #38bdf8;
+  --color-accent-foreground: #041627;
+  --shadow-lg: 0 20px 45px rgba(8, 47, 73, 0.35);
 }
 
 *,

@@ -8,7 +8,7 @@ import { Timeline } from "@/components/ui/timeline";
 
 export function ExperienceSection() {
   return (
-    <section id="experience" className="py-24">
+    <section id="experience" className="py-8">
       <Container>
         <SectionHeader
           eyebrow="Experience"

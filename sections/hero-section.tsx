@@ -10,7 +10,7 @@ import { Container } from "@/components/ui/container";
 
 export function HeroSection() {
   return (
-    <section id="hero" className="relative overflow-hidden pb-24 pt-28">
+    <section id="hero" className="relative overflow-hidden pb-8 pt-8">
       <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(56,189,248,0.25),transparent_55%)]" />
       <Container className="grid gap-12 md:grid-cols-[1.2fr_0.8fr] md:items-center">
         <div className="space-y-8">
