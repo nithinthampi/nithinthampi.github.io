@@ -1,0 +1,111 @@
+{
+  "name": "Nithin Thampi",
+  "title": "Principal Software Engineer",
+  "location": {
+    "lat": 10.8949464,
+    "lng": 75.9260695
+  },
+  "basic": {
+    "title": "Software Engineer",
+    "email": "nithin.thampi87@gmail.com",
+    "website": "http://nithinthampi.in",
+    "skype": "nithinthampi@skype.com",
+    "phone": "+91 7829387027",
+    "address": "Bangalore, Karnataka, India"
+  },
+  "about": {
+    "description": "Hello! I’m Nithin Thampi. Senior Web Developer with over 13 years of experience specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, XML, Java, JavaScript, JQuery, Angular JS. Strong background in management and leadership.",
+    "resumeUrl": "http://nithin.thampi.in/resume"
+  },
+  "education": [
+    {
+      "title": "Secondary Education",
+      "institute": "MES Central School, Tirur",
+      "year": "May 2002 - March 2003",
+      "shortDesc": "I completed my preparatory education from this prestigious institution. I successful completed all the credits without any fallout and got A grade overall.",
+      "longDesc": "Hello! I’m Nithin Thampi. Senior Web Developer with over 13 years of experience specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, XML, Java, JavaScript, JQuery, Angular JS. Strong background in management and leadership."
+    },
+    {
+      "title": "Higher Secondary Education",
+      "institute": "MES Central School, Tirur",
+      "year": "May 2004 - March 2005",
+      "shortDesc": "I completed my preparatory education from this prestigious institution. I successful completed all the credits without any fallout and got A grade overall.",
+      "longDesc": "Hello! I’m Nithin Thampi. Senior Web Developer with over 13 years of experience specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, XML, Java, JavaScript, JQuery, Angular JS. Strong background in management and leadership."
+    },
+    {
+      "title": "BTech",
+      "institute": "Cochin Institute of Science And Technology",
+      "year": "May 2005 - March 2009",
+      "shortDesc": "I completed my preparatory education from this prestigious institution. I successful completed all the credits without any fallout and got A grade overall.",
+      "longDesc": "Hello! I’m Nithin Thampi. Senior Web Developer with over 13 years of experience specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, LESS, JSON, XML, Java, JavaScript, JQuery, Angular JS. Strong background in management and leadership."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Principal Software Engineer",
+      "institute": "Globex Corporation",
+      "year": "June 2021 - Present",
+      "shortDesc": "Leading a platform modernization effort spanning 20+ micro frontends and managing a globally distributed engineering team.",
+      "longDesc": "Architected a design system adopted across the organization, reducing duplicated UI code by 45%. Spearheaded performance improvements that resulted in a 30% decrease in first contentful paint and mentored engineers across three continents."
+    },
+    {
+      "title": "Senior Frontend Engineer",
+      "institute": "Initech",
+      "year": "January 2017 - May 2021",
+      "shortDesc": "Delivered mission-critical digital transformation programs for enterprise clients in finance and healthcare.",
+      "longDesc": "Implemented a reactive micro-frontend architecture, introduced automated accessibility testing in CI/CD, and drove adoption of TypeScript and GraphQL company-wide."
+    },
+    {
+      "title": "Frontend Engineer",
+      "institute": "Soylent Corp",
+      "year": "March 2013 - December 2016",
+      "shortDesc": "Built responsive web applications serving millions of users across media and e-commerce domains.",
+      "longDesc": "Collaborated with UX, product, and data science teams to rapidly iterate on features, rolled out component-driven development practices, and improved Lighthouse performance scores by 20 points on flagship products."
+    }
+  ],
+  "skills": {
+    "Professional": [
+      { "name": "HTML5", "rating": 90 },
+      { "name": "CSS3", "rating": 80 },
+      { "name": "jQuery", "rating": 60 },
+      { "name": "ES6", "rating": 68 }
+    ],
+    "Personal": [
+      { "name": "Communication", "rating": 90 },
+      { "name": "Teamwork", "rating": 80 },
+      { "name": "Creativity", "rating": 60 },
+      { "name": "Dedication", "rating": 68 }
+    ],
+    "Software": [
+      { "name": "VSCode", "rating": 90 },
+      { "name": "Atom", "rating": 80 },
+      { "name": "Brackets", "rating": 60 },
+      { "name": "Adobe InDesign", "rating": 68 }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Design System Atlas",
+      "description": "A cross-platform component library and design token pipeline powering interfaces across 12 products.",
+      "link": "https://design.nithinthampi.in",
+      "tech": ["React", "Storybook", "Tailwind CSS", "TypeScript"]
+    },
+    {
+      "name": "Realtime Analytics Dashboard",
+      "description": "Interactive analytics surface providing sub-second insights into e-commerce funnels with advanced filtering and data visualization.",
+      "link": "https://analytics.nithinthampi.in",
+      "tech": ["Next.js", "D3.js", "Apollo GraphQL"]
+    },
+    {
+      "name": "Developer Productivity Toolkit",
+      "description": "A suite of CLI tooling and project templates that improve onboarding speed and enforce engineering standards across teams.",
+      "link": "https://toolkit.nithinthampi.in",
+      "tech": ["Node.js", "pnpm", "ESLint", "Jest"]
+    }
+  ],
+  "social": [
+    { "name": "GitHub", "url": "https://github.com/nithinthampi" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/nithinthampi" },
+    { "name": "Twitter", "url": "https://twitter.com/nithinthampi" }
+  ]
+}
