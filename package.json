@@ -12,7 +12,7 @@
     "test:watch": "jest --watch",
     "format": "prettier --check .",
     "format:write": "prettier --write .",
-    "export": "next build && next export",
+    "export": "next build",
     "prepare": "husky"
   },
   "lint-staged": {
